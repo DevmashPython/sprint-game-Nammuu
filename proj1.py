@@ -37,3 +37,8 @@ while count3!=finish:
 		print "error"
 		break
 print "congrats"			
+
+'''
+1. Mention controls for the game.
+2. Mention when to turn right and when to turn down.	
+'''
